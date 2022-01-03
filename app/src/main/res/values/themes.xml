@@ -1,6 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Splash.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_screen_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
+        <item name="windowSplashScreenAnimationDuration">@integer/splash_screen_animation_duration</item>
+        <item name="postSplashScreenTheme">@style/Theme.App.NoActionBar</item>
+    </style>
+
     <!-- Base application theme. -->
-    <style name="Theme.AndroidSplashScreen" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -14,7 +22,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.AndroidSplashScreen.NoActionBar">
+    <style name="Theme.App.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
