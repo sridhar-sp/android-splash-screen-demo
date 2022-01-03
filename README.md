@@ -5,7 +5,10 @@
 
 https://medium.com/@sridhar-sp/69723a820a06
 
+### Output
+
+ <img src="https://raw.githubusercontent.com/sridhar-sp/android-splash-screen-demo/main/docs/images/splash_preview.png" data-canonical-src="https://raw.githubusercontent.com/sridhar-sp/android-splash-screen-demo/main/docs/images/splash_preview.png" width="360"  />
 
 
-#### Reference
+### Reference
 * https://developer.android.com/guide/topics/ui/splash-screen
