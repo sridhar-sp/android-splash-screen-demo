@@ -19,7 +19,7 @@ class MainViewModel : ViewModel() {
     }
 
     private suspend fun fetchRequiredResources() {
-        val fakeExecutionTime = 5000L
+        val fakeExecutionTime = 3500L
         delay(fakeExecutionTime)
     }
 
