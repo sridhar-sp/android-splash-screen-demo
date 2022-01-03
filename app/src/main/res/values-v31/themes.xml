@@ -2,12 +2,22 @@
 <resources>
 
     <style name="Theme.Splash.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/splash_screen_background</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
-        <item name="windowSplashScreenAnimationDuration">@integer/splash_screen_animation_duration</item>
-        <item name="postSplashScreenTheme">@style/Theme.App.NoActionBar</item>
+        <item name="windowSplashScreenBackground">
+            @color/splash_screen_background
+        </item>
+        <item name="windowSplashScreenAnimatedIcon">
+            @drawable/ic_splash_icon
+        </item>
+        <item name="windowSplashScreenAnimationDuration">
+            @integer/splash_screen_animation_duration
+        </item>
+        <item name="postSplashScreenTheme">
+            @style/Theme.App.NoActionBar
+        </item>
         <!--Android 12 specific styles starts here-->
-        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_brand_icon</item>
+        <item name="android:windowSplashScreenBrandingImage">
+            @drawable/ic_brand_icon
+        </item>
         <!--Android 12 specific styles ends here-->
     </style>
 </resources>
