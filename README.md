@@ -5,6 +5,9 @@
 
 https://medium.com/@sridhar-sp/69723a820a06
 
+#### Featured on [Google dev library](https://devlibrary.withgoogle.com/authors/sridhar-sp)
+
+
 ### Output
 
  <img src="https://raw.githubusercontent.com/sridhar-sp/android-splash-screen-demo/main/docs/images/splash_preview.png" data-canonical-src="https://raw.githubusercontent.com/sridhar-sp/android-splash-screen-demo/main/docs/images/splash_preview.png" width="360"  />
